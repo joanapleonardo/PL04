@@ -6,15 +6,21 @@ body{
 header{
     text-align: center;
 }
+h1{
+text-decoration: underline;
+text-transform: uppercase;
+}
 header>img{
     width: 50%;
     /*max-width: 800px;
     min-width: 700px*/
 }
+
 nav{
     background-color: gray;
     padding: 5px;
     margin: 10px;
+    color: white;
 }
 nav img{
     height: 40px;
